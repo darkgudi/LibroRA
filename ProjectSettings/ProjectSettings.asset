@@ -16,7 +16,7 @@ PlayerSettings:
   productName: LibroRA_PalabrasMagicas
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.2735849, g: 0.0626888, b: 0.24095961, a: 0.8509804}
+  m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.0626888, b: 0.20392157, a: 0.8509804}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -138,7 +138,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1
+  bundleVersion: 'Funcional V0.1 '
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0

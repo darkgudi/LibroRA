@@ -12,11 +12,11 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: GV Immersive Studio
   productName: LibroRA_PalabrasMagicas
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.0626888, b: 0.20392157, a: 0.8509804}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -39,7 +39,9 @@ PlayerSettings:
     y: 0
     width: 1
     height: 1
-  m_SplashScreenLogos: []
+  m_SplashScreenLogos:
+  - logo: {fileID: 21300000, guid: b521a32a3ebcc3a409000a57bfc68bd7, type: 3}
+    duration: 2
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1920
@@ -136,7 +138,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1
+  bundleVersion: 'Funcional V0.1 '
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -283,7 +285,9 @@ PlayerSettings:
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: Android
     m_Icons:
-    - m_Textures: []
+    - m_Textures:
+      - {fileID: 2800000, guid: 34adc5c50d7549143b71aedffe96b0be, type: 3}
+      - {fileID: 2800000, guid: 34adc5c50d7549143b71aedffe96b0be, type: 3}
       m_Width: 432
       m_Height: 432
       m_Kind: 2
@@ -313,7 +317,8 @@ PlayerSettings:
       m_Height: 81
       m_Kind: 2
       m_SubKind: 
-    - m_Textures: []
+    - m_Textures:
+      - {fileID: 2800000, guid: 34adc5c50d7549143b71aedffe96b0be, type: 3}
       m_Width: 192
       m_Height: 192
       m_Kind: 1
@@ -343,7 +348,8 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 1
       m_SubKind: 
-    - m_Textures: []
+    - m_Textures:
+      - {fileID: 2800000, guid: 34adc5c50d7549143b71aedffe96b0be, type: 3}
       m_Width: 192
       m_Height: 192
       m_Kind: 0

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VerificacionCodigo.unity
-    guid: 2d6f9811944da784cb243f13e8aeef47
+    path: Assets/Scenes/Verificacon.unity
+    guid: 8f909caa8ab1e8a4698358e526be58df
   - enabled: 1
     path: Assets/Scenes/PantallaPrincipal.unity
     guid: 553a4a905464bf247a5060f685f6d205
